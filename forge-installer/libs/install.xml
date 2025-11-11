@@ -47,6 +47,7 @@
 
 	<variables>
 		<variable name="InstallerFrame.logfilePath" value="Default"/>
+		<variable name="TargetPanel.dir.linux" value="/usr/local/games/$project.build.finalName$"/>
 	</variables>
 
 	<panels>
