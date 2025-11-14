@@ -250,6 +250,10 @@ public class ImageUtil {
                 }
 
                 cardCollectorNumber += "b" + collectorNumberSuffix;
+            } else if (cp == cp.getMeldBaseCard()) {
+                if (cardCollectorNumber.endsWith("a")) {
+                    cardCollectorNumber = cardCollectorNumber.substring(0, cardCollectorNumber.length() - 1);
+                }
             }
 
             faceParam = "&face=front";
