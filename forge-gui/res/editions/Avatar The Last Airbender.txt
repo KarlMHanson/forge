@@ -32,7 +32,7 @@ Replace=.001F Rare:fromSheet("TLA battle pose")
 Replace=.0005F Mythic:fromSheet("TLA battle pose")
 Replace=.001F Rare:fromSheet("TLA elemental frame")
 Replace=.0005F Mythic:fromSheet("TLA elemental frame")
-Replace=.0005F Mythic:fromSheet("TLA borderless saga")
+Replace=.0005F Mythic:fromSheet("TLA borderless dfc saga")
 
 [Wildcard]
 Base=Uncommon:fromSheet("TLA cards")
