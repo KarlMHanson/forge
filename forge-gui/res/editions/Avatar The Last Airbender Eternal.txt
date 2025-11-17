@@ -325,335 +325,335 @@ ScryfallCode=TLE
 317 R Swiftfoot Boots @Barbara Rosiak
 
 [borderless]
-1 Brought Back|TLA|1
-1 Drannith Magistrate|TLA|2
-1 Empty City Ruse|TLA|3
-1 Lita, Mechanical Engineer|TLA|4
-1 Release to Memory|TLA|5
-1 Scout's Warning|TLA|6
-1 Teferi's Protection|TLA|7
-1 Three Dreams|TLA|8
-1 Agent of Treachery|TLA|9
-1 Bribery|TLA|10
-1 Clone|TLA|11
-1 Clone Legion|TLA|12
-1 Force of Negation|TLA|13
-1 Imprisoned in the Moon|TLA|14
-1 Intruder Alarm|TLA|15
-1 Mystic Remora|TLA|16
-1 Prosperity|TLA|17
-1 Sakashima of a Thousand Faces|TLA|18
-1 Standstill|TLA|19
-1 Training Grounds|TLA|20
-1 Visions of Beyond|TLA|21
-1 Black Sun's Zenith|TLA|22
-1 Bloodchief Ascension|TLA|23
-1 Cruel Tutor|TLA|24
-1 Noxious Gearhulk|TLA|25
-1 Blasphemous Act|TLA|26
-1 Diaochan, Artful Beauty|TLA|27
-1 Dockside Extortionist|TLA|28
-1 Fervor|TLA|29
-1 Humble Defector|TLA|30
-1 Insurrection|TLA|31
-1 Lightning Bolt|TLA|32
-1 Mirrorwing Dragon|TLA|33
-1 Rending Volley|TLA|34
-1 Searing Blood|TLA|35
-1 Shattering Spree|TLA|36
-1 Volcanic Torrent|TLA|37
-1 Warstorm Surge|TLA|38
-1 Beastmaster Ascension|TLA|39
-1 Elemental Bond|TLA|40
-1 The Great Henge|TLA|41
-1 Heartbeat of Spring|TLA|42
-1 Heroic Intervention|TLA|43
-1 Return of the Wildspeaker|TLA|44
-1 Rites of Flourishing|TLA|45
-1 Taunting Challenge|TLA|46
-1 Captain Sisay|TLA|47
-1 Eladamri's Call|TLA|48
-1 Fevered Visions|TLA|49
-1 Join the Dance|TLA|50
-1 Koma, Cosmos Serpent|TLA|51
-1 Rhys the Redeemed|TLA|52
-1 Cityscape Leveler|TLA|53
-1 Meteorite|TLA|54
-1 Sundial of the Infinite|TLA|55
-1 Dark Depths|TLA|56
-1 Fabled Passage|TLA|57
-1 Sunbaked Canyon|TLA|58
-1 Tarnished Citadel|TLA|59
-1 Treetop Village|TLA|60
-1 Valakut, the Molten Pinnacle|TLA|61
+1 Brought Back|TLE|1
+1 Drannith Magistrate|TLE|2
+1 Empty City Ruse|TLE|3
+1 Lita, Mechanical Engineer|TLE|4
+1 Release to Memory|TLE|5
+1 Scout's Warning|TLE|6
+1 Teferi's Protection|TLE|7
+1 Three Dreams|TLE|8
+1 Agent of Treachery|TLE|9
+1 Bribery|TLE|10
+1 Clone|TLE|11
+1 Clone Legion|TLE|12
+1 Force of Negation|TLE|13
+1 Imprisoned in the Moon|TLE|14
+1 Intruder Alarm|TLE|15
+1 Mystic Remora|TLE|16
+1 Prosperity|TLE|17
+1 Sakashima of a Thousand Faces|TLE|18
+1 Standstill|TLE|19
+1 Training Grounds|TLE|20
+1 Visions of Beyond|TLE|21
+1 Black Sun's Zenith|TLE|22
+1 Bloodchief Ascension|TLE|23
+1 Cruel Tutor|TLE|24
+1 Noxious Gearhulk|TLE|25
+1 Blasphemous Act|TLE|26
+1 Diaochan, Artful Beauty|TLE|27
+1 Dockside Extortionist|TLE|28
+1 Fervor|TLE|29
+1 Humble Defector|TLE|30
+1 Insurrection|TLE|31
+1 Lightning Bolt|TLE|32
+1 Mirrorwing Dragon|TLE|33
+1 Rending Volley|TLE|34
+1 Searing Blood|TLE|35
+1 Shattering Spree|TLE|36
+1 Volcanic Torrent|TLE|37
+1 Warstorm Surge|TLE|38
+1 Beastmaster Ascension|TLE|39
+1 Elemental Bond|TLE|40
+1 The Great Henge|TLE|41
+1 Heartbeat of Spring|TLE|42
+1 Heroic Intervention|TLE|43
+1 Return of the Wildspeaker|TLE|44
+1 Rites of Flourishing|TLE|45
+1 Taunting Challenge|TLE|46
+1 Captain Sisay|TLE|47
+1 Eladamri's Call|TLE|48
+1 Fevered Visions|TLE|49
+1 Join the Dance|TLE|50
+1 Koma, Cosmos Serpent|TLE|51
+1 Rhys the Redeemed|TLE|52
+1 Cityscape Leveler|TLE|53
+1 Meteorite|TLE|54
+1 Sundial of the Infinite|TLE|55
+1 Dark Depths|TLE|56
+1 Fabled Passage|TLE|57
+1 Sunbaked Canyon|TLE|58
+1 Tarnished Citadel|TLE|59
+1 Treetop Village|TLE|60
+1 Valakut, the Molten Pinnacle|TLE|61
 
 [black sun invasion]
-1 Appa, the Vigilant|TLA|62
-1 Katara's Reversal|TLA|63
-1 Fire Nation Turret|TLA|64
-1 Swampbenders|TLA|65
-1 Sokka's Charge|TLA|66
-1 Earthshape|TLA|67
+1 Appa, the Vigilant|TLE|62
+1 Katara's Reversal|TLE|63
+1 Fire Nation Turret|TLE|64
+1 Swampbenders|TLE|65
+1 Sokka's Charge|TLE|66
+1 Earthshape|TLE|67
 
 [tea time]
-1 Mai and Zuko|TLA|68
-1 Aang and Katara|TLA|69
-1 Toph, Greatest Earthbender|TLA|70
-1 Sokka and Suki|TLA|71
-1 Momo's Heist|TLA|72
-1 Uncle's Musings|TLA|73
+1 Mai and Zuko|TLE|68
+1 Aang and Katara|TLE|69
+1 Toph, Greatest Earthbender|TLE|70
+1 Sokka and Suki|TLE|71
+1 Momo's Heist|TLE|72
+1 Uncle's Musings|TLE|73
 
 [extended art]
-1 Aang, Airbending Master|TLA|74
-1 Air Nomad Student|TLA|75
-1 The Duke, Rebel Sentry|TLA|76
-1 Inspired Insurgent|TLA|77
-1 Jet, Rebel Leader|TLA|78
-1 Kindly Customer|TLA|79
-1 Koala-Sheep|TLA|80
-1 Monk Gyatso|TLA|81
-1 Pipsqueak, Rebel Strongarm|TLA|82
-1 Sokka, Swordmaster|TLA|83
-1 Sokka's Sword Training|TLA|84
-1 Suki, Kyoshi Captain|TLA|85
-1 Tale of Momo|TLA|86
-1 That's Rough Buddy|TLA|87
-1 Toucan-Puffin|TLA|88
-1 Baboon Spirit|TLA|89
-1 The Blue Spirit|TLA|90
-1 Chakra Meditation|TLA|91
-1 Dutiful Knowledge Seeker|TLA|92
-1 Katara, Waterbending Master|TLA|93
-1 Nightmares and Daydreams|TLA|94
-1 Princess Yue|TLA|95
-1 Tui and La, Moon and Ocean|TLA|96
-1 Unagi's Spray|TLA|97
-1 Wan Shi Tong, All-Knowing|TLA|98
-1 Waterbender's Restoration|TLA|99
-1 Whirlwind Technique|TLA|100
-1 Azula, Ruthless Firebender|TLA|101
-1 Dai Li Censor|TLA|102
-1 Desperate Plea|TLA|103
-1 Fire Lord Ozai|TLA|104
-1 Fire Nation Occupation|TLA|105
-1 Fire Nation Salvagers|TLA|106
-1 Giant Fly|TLA|107
-1 Lo and Li, Royal Advisors|TLA|108
-1 Nyla, Shirshu Sleuth|TLA|109
-1 Ruthless Waterbender|TLA|110
-1 Scarring Memories|TLA|111
-1 Avatar Roku, Firebender|TLA|112
-1 Chong and Lily, Nomads|TLA|113
-1 Deer-Dog|TLA|114
-1 Fang, Roku's Companion|TLA|115
-1 Founding of Omashu|TLA|116
-1 Frantic Confrontation|TLA|117
-1 Freedom Fighter Recruit|TLA|118
-1 Iroh, Dragon of the West|TLA|119
-1 Longshot, Rebel Bowman|TLA|120
-1 Lost in Memories|TLA|121
-1 Moku, Meandering Drummer|TLA|122
-1 Overwhelming Victory|TLA|123
-1 Reckless Blaze|TLA|124
-1 Smellerbee, Rebel Fighter|TLA|125
-1 Storm of Memories|TLA|126
-1 Zuko, Firebending Master|TLA|127
-1 Animal Attendant|TLA|128
-1 The Art of Tea|TLA|129
-1 Avatar Kyoshi, Earthbender|TLA|130
-1 Bison Whistle|TLA|131
-1 Bosco, Just a Bear|TLA|132
-1 Bumi's Feast Lecture|TLA|133
-1 The Cabbage Merchant|TLA|134
-1 Cracked Earth Technique|TLA|135
-1 Creeping Crystal Coating|TLA|136
-1 Crystalline Armor|TLA|137
-1 Elephant-Mandrill|TLA|138
-1 Hei Bai, Forest Guardian|TLA|139
-1 Kyoshi Warrior Exemplars|TLA|140
-1 Master's Guidance|TLA|141
-1 Solid Ground|TLA|142
-1 Tale of Katara and Toph|TLA|143
-1 Tectonic Split|TLA|144
-1 Toph, Earthbending Master|TLA|145
+1 Aang, Airbending Master|TLE|74
+1 Air Nomad Student|TLE|75
+1 The Duke, Rebel Sentry|TLE|76
+1 Inspired Insurgent|TLE|77
+1 Jet, Rebel Leader|TLE|78
+1 Kindly Customer|TLE|79
+1 Koala-Sheep|TLE|80
+1 Monk Gyatso|TLE|81
+1 Pipsqueak, Rebel Strongarm|TLE|82
+1 Sokka, Swordmaster|TLE|83
+1 Sokka's Sword Training|TLE|84
+1 Suki, Kyoshi Captain|TLE|85
+1 Tale of Momo|TLE|86
+1 That's Rough Buddy|TLE|87
+1 Toucan-Puffin|TLE|88
+1 Baboon Spirit|TLE|89
+1 The Blue Spirit|TLE|90
+1 Chakra Meditation|TLE|91
+1 Dutiful Knowledge Seeker|TLE|92
+1 Katara, Waterbending Master|TLE|93
+1 Nightmares and Daydreams|TLE|94
+1 Princess Yue|TLE|95
+1 Tui and La, Moon and Ocean|TLE|96
+1 Unagi's Spray|TLE|97
+1 Wan Shi Tong, All-Knowing|TLE|98
+1 Waterbender's Restoration|TLE|99
+1 Whirlwind Technique|TLE|100
+1 Azula, Ruthless Firebender|TLE|101
+1 Dai Li Censor|TLE|102
+1 Desperate Plea|TLE|103
+1 Fire Lord Ozai|TLE|104
+1 Fire Nation Occupation|TLE|105
+1 Fire Nation Salvagers|TLE|106
+1 Giant Fly|TLE|107
+1 Lo and Li, Royal Advisors|TLE|108
+1 Nyla, Shirshu Sleuth|TLE|109
+1 Ruthless Waterbender|TLE|110
+1 Scarring Memories|TLE|111
+1 Avatar Roku, Firebender|TLE|112
+1 Chong and Lily, Nomads|TLE|113
+1 Deer-Dog|TLE|114
+1 Fang, Roku's Companion|TLE|115
+1 Founding of Omashu|TLE|116
+1 Frantic Confrontation|TLE|117
+1 Freedom Fighter Recruit|TLE|118
+1 Iroh, Dragon of the West|TLE|119
+1 Longshot, Rebel Bowman|TLE|120
+1 Lost in Memories|TLE|121
+1 Moku, Meandering Drummer|TLE|122
+1 Overwhelming Victory|TLE|123
+1 Reckless Blaze|TLE|124
+1 Smellerbee, Rebel Fighter|TLE|125
+1 Storm of Memories|TLE|126
+1 Zuko, Firebending Master|TLE|127
+1 Animal Attendant|TLE|128
+1 The Art of Tea|TLE|129
+1 Avatar Kyoshi, Earthbender|TLE|130
+1 Bison Whistle|TLE|131
+1 Bosco, Just a Bear|TLE|132
+1 Bumi's Feast Lecture|TLE|133
+1 The Cabbage Merchant|TLE|134
+1 Cracked Earth Technique|TLE|135
+1 Creeping Crystal Coating|TLE|136
+1 Crystalline Armor|TLE|137
+1 Elephant-Mandrill|TLE|138
+1 Hei Bai, Forest Guardian|TLE|139
+1 Kyoshi Warrior Exemplars|TLE|140
+1 Master's Guidance|TLE|141
+1 Solid Ground|TLE|142
+1 Tale of Katara and Toph|TLE|143
+1 Tectonic Split|TLE|144
+1 Toph, Earthbending Master|TLE|145
 
 [jumpstart]
-1 Aang, A Lot to Learn|TLA|146
-1 Hook Swords|TLA|147
-1 Katara, Seeking Revenge|TLA|148
-1 Stand United|TLA|149
-1 Zuko, Seeking Honor|TLA|150
-1 Acrobatic Leap|TLA|151
-1 Cloudshift|TLA|152
-1 Duelist's Heritage|TLA|153
-1 Valorous Stance|TLA|154
-1 Brainstorm|TLA|155
-1 Coastal Piracy|TLA|156
-1 Consider|TLA|157
-1 Dramatic Reversal|TLA|158
-1 Frantic Search|TLA|159
-1 Bastion of Remembrance|TLA|160
-1 Dark Deal|TLA|161
-1 Diresight|TLA|162
-1 Bolt Bend|TLA|163
-1 Cathartic Reunion|TLA|164
-1 Fiery Confluence|TLA|165
-1 Fists of Flame|TLA|166
-1 Descendants' Path|TLA|167
-1 Inspiring Call|TLA|168
-1 Many Partings|TLA|169
-1 Suspicious Bookcase|TLA|170
-1 Aang, Airbending Master|TLA|171
-1 Jet, Rebel Leader|TLA|172
-1 Monk Gyatso|TLA|173
-1 Sokka, Swordmaster|TLA|174
-1 Suki, Kyoshi Captain|TLA|175
-1 Tale of Momo|TLA|176
-1 Baboon Spirit|TLA|177
-1 The Blue Spirit|TLA|178
-1 Chakra Meditation|TLA|179
-1 Katara, Waterbending Master|TLA|180
-1 Tui and La, Moon and Ocean|TLA|181
-1 Wan Shi Tong, All-Knowing|TLA|182
-1 Waterbender's Restoration|TLA|183
-1 Azula, Ruthless Firebender|TLA|184
-1 Desperate Plea|TLA|185
-1 Fire Lord Ozai|TLA|186
-1 Fire Nation Occupation|TLA|187
-1 Fire Nation Salvagers|TLA|188
-1 Lo and Li, Royal Advisors|TLA|189
-1 Nyla, Shirshu Sleuth|TLA|190
-1 Avatar Roku, Firebender|TLA|191
-1 Chong and Lily, Nomads|TLA|192
-1 Fang, Roku's Companion|TLA|193
-1 Iroh, Dragon of the West|TLA|194
-1 Lost in Memories|TLA|195
-1 Overwhelming Victory|TLA|196
-1 Reckless Blaze|TLA|197
-1 Smellerbee, Rebel Fighter|TLA|198
-1 Storm of Memories|TLA|199
-1 Zuko, Firebending Master|TLA|200
-1 Avatar Kyoshi, Earthbender|TLA|201
-1 Bison Whistle|TLA|202
-1 The Cabbage Merchant|TLA|203
-1 Crystalline Armor|TLA|204
-1 Hei Bai, Forest Guardian|TLA|205
-1 Master's Guidance|TLA|206
-1 Tale of Katara and Toph|TLA|207
-1 Tectonic Split|TLA|208
-1 Toph, Earthbending Master|TLA|209
+1 Aang, A Lot to Learn|TLE|146
+1 Hook Swords|TLE|147
+1 Katara, Seeking Revenge|TLE|148
+1 Stand United|TLE|149
+1 Zuko, Seeking Honor|TLE|150
+1 Acrobatic Leap|TLE|151
+1 Cloudshift|TLE|152
+1 Duelist's Heritage|TLE|153
+1 Valorous Stance|TLE|154
+1 Brainstorm|TLE|155
+1 Coastal Piracy|TLE|156
+1 Consider|TLE|157
+1 Dramatic Reversal|TLE|158
+1 Frantic Search|TLE|159
+1 Bastion of Remembrance|TLE|160
+1 Dark Deal|TLE|161
+1 Diresight|TLE|162
+1 Bolt Bend|TLE|163
+1 Cathartic Reunion|TLE|164
+1 Fiery Confluence|TLE|165
+1 Fists of Flame|TLE|166
+1 Descendants' Path|TLE|167
+1 Inspiring Call|TLE|168
+1 Many Partings|TLE|169
+1 Suspicious Bookcase|TLE|170
+1 Aang, Airbending Master|TLE|171
+1 Jet, Rebel Leader|TLE|172
+1 Monk Gyatso|TLE|173
+1 Sokka, Swordmaster|TLE|174
+1 Suki, Kyoshi Captain|TLE|175
+1 Tale of Momo|TLE|176
+1 Baboon Spirit|TLE|177
+1 The Blue Spirit|TLE|178
+1 Chakra Meditation|TLE|179
+1 Katara, Waterbending Master|TLE|180
+1 Tui and La, Moon and Ocean|TLE|181
+1 Wan Shi Tong, All-Knowing|TLE|182
+1 Waterbender's Restoration|TLE|183
+1 Azula, Ruthless Firebender|TLE|184
+1 Desperate Plea|TLE|185
+1 Fire Lord Ozai|TLE|186
+1 Fire Nation Occupation|TLE|187
+1 Fire Nation Salvagers|TLE|188
+1 Lo and Li, Royal Advisors|TLE|189
+1 Nyla, Shirshu Sleuth|TLE|190
+1 Avatar Roku, Firebender|TLE|191
+1 Chong and Lily, Nomads|TLE|192
+1 Fang, Roku's Companion|TLE|193
+1 Iroh, Dragon of the West|TLE|194
+1 Lost in Memories|TLE|195
+1 Overwhelming Victory|TLE|196
+1 Reckless Blaze|TLE|197
+1 Smellerbee, Rebel Fighter|TLE|198
+1 Storm of Memories|TLE|199
+1 Zuko, Firebending Master|TLE|200
+1 Avatar Kyoshi, Earthbender|TLE|201
+1 Bison Whistle|TLE|202
+1 The Cabbage Merchant|TLE|203
+1 Crystalline Armor|TLE|204
+1 Hei Bai, Forest Guardian|TLE|205
+1 Master's Guidance|TLE|206
+1 Tale of Katara and Toph|TLE|207
+1 Tectonic Split|TLE|208
+1 Toph, Earthbending Master|TLE|209
 
 [tutorial]
-1 Aang, Air Nomad|TLA|210
-1 Aang's Defense|TLA|211
-1 Aardvark Sloth|TLA|212
-1 Allied Teamwork|TLA|213
-1 Appa, Aang's Companion|TLA|214
-1 Katara, Heroic Healer|TLA|215
-1 Kyoshi Warrior Guard|TLA|216
-1 Momo, Rambunctious Rascal|TLA|217
-1 Sledding Otter-Penguin|TLA|218
-1 Sokka, Wolf Cove's Protector|TLA|219
-1 Tundra Wall|TLA|220
-1 Wolf Cove Villager|TLA|221
-1 Deny Entry|TLA|222
-1 Flying Dolphin-Fish|TLA|223
-1 Lost in the Spirit World|TLA|224
-1 The Terror of Serpent's Pass|TLA|225
-1 Turtle-Seals|TLA|226
-1 Water Whip|TLA|227
-1 Elephant-Rat|TLA|228
-1 Fire Nation Ambushers|TLA|229
-1 Fire Nation Sentinels|TLA|230
-1 Gilacorn|TLA|231
-1 Lion Vulture|TLA|232
-1 Purple Pentapus|TLA|233
-1 Capital Guard|TLA|234
-1 Dragon Moose|TLA|235
-1 Explosive Shot|TLA|236
-1 Fire Nation Archers|TLA|237
-1 Fire Nation Soldier|TLA|238
-1 Fire Nation's Conquest|TLA|239
-1 Iroh, Firebending Instructor|TLA|240
-1 Komodo Rhino|TLA|241
-1 Loyal Fire Sage|TLA|242
-1 Roku's Mastery|TLA|243
-1 Warship Scout|TLA|244
-1 Zhao, the Seething Flame|TLA|245
-1 Zuko, Avatar Hunter|TLA|246
-1 Zuko's Offense|TLA|247
-1 Bumi, Eclectic Earthbender|TLA|248
-1 Earthbending Student|TLA|249
-1 Eel-Hounds|TLA|250
-1 Frog-Squirrels|TLA|251
-1 Hippo-Cows|TLA|252
-1 Match the Odds|TLA|253
-1 Seismic Tutelage|TLA|254
-1 Hog-Monkey Rampage|TLA|255
-1 Mechanical Glider|TLA|256
-1 Feed the Swarm|TLA|257
-1 Run Amok|TLA|258
-1 Explore|TLA|259
-1 Thriving Bluff|TLA|260
-1 Thriving Grove|TLA|261
-1 Thriving Heath|TLA|262
-1 Thriving Isle|TLA|263
-1 Thriving Moor|TLA|264
-1 Aang, Air Nomad|TLA|265
-1 Aang's Defense|TLA|266
-1 Aardvark Sloth|TLA|267
-1 Appa, Aang's Companion|TLA|268
-1 Katara, Heroic Healer|TLA|269
-1 Momo, Rambunctious Rascal|TLA|270
-1 Path to Redemption|TLA|271
-1 Razor Rings|TLA|272
-1 Sledding Otter-Penguin|TLA|273
-1 Sokka, Wolf Cove's Protector|TLA|274
-1 Tundra Wall|TLA|275
-1 Wolf Cove Villager|TLA|276
-1 Capital Guard|TLA|277
-1 Dragon Moose|TLA|278
-1 Explosive Shot|TLA|279
-1 Fire Nation Soldier|TLA|280
-1 Fire Nation's Conquest|TLA|281
-1 Iroh, Firebending Instructor|TLA|282
-1 Komodo Rhino|TLA|283
-1 Run Amok|TLA|284
-1 Warship Scout|TLA|285
-1 Zhao, the Seething Flame|TLA|286
-1 Zuko, Avatar Hunter|TLA|287
-1 Zuko's Offense|TLA|288
-1 Mountain|TLA|289
-1 Mountain|TLA|290
-1 Mountain|TLA|291
-1 Mountain|TLA|292
-1 Mountain|TLA|293
-1 Mountain|TLA|294
-1 Mountain|TLA|295
-1 Mountain|TLA|296
-1 Plains|TLA|297
-1 Plains|TLA|298
-1 Plains|TLA|299
-1 Plains|TLA|300
-1 Plains|TLA|301
-1 Plains|TLA|302
-1 Plains|TLA|303
-1 Plains|TLA|304
+1 Aang, Air Nomad|TLE|210
+1 Aang's Defense|TLE|211
+1 Aardvark Sloth|TLE|212
+1 Allied Teamwork|TLE|213
+1 Appa, Aang's Companion|TLE|214
+1 Katara, Heroic Healer|TLE|215
+1 Kyoshi Warrior Guard|TLE|216
+1 Momo, Rambunctious Rascal|TLE|217
+1 Sledding Otter-Penguin|TLE|218
+1 Sokka, Wolf Cove's Protector|TLE|219
+1 Tundra Wall|TLE|220
+1 Wolf Cove Villager|TLE|221
+1 Deny Entry|TLE|222
+1 Flying Dolphin-Fish|TLE|223
+1 Lost in the Spirit World|TLE|224
+1 The Terror of Serpent's Pass|TLE|225
+1 Turtle-Seals|TLE|226
+1 Water Whip|TLE|227
+1 Elephant-Rat|TLE|228
+1 Fire Nation Ambushers|TLE|229
+1 Fire Nation Sentinels|TLE|230
+1 Gilacorn|TLE|231
+1 Lion Vulture|TLE|232
+1 Purple Pentapus|TLE|233
+1 Capital Guard|TLE|234
+1 Dragon Moose|TLE|235
+1 Explosive Shot|TLE|236
+1 Fire Nation Archers|TLE|237
+1 Fire Nation Soldier|TLE|238
+1 Fire Nation's Conquest|TLE|239
+1 Iroh, Firebending Instructor|TLE|240
+1 Komodo Rhino|TLE|241
+1 Loyal Fire Sage|TLE|242
+1 Roku's Mastery|TLE|243
+1 Warship Scout|TLE|244
+1 Zhao, the Seething Flame|TLE|245
+1 Zuko, Avatar Hunter|TLE|246
+1 Zuko's Offense|TLE|247
+1 Bumi, Eclectic Earthbender|TLE|248
+1 Earthbending Student|TLE|249
+1 Eel-Hounds|TLE|250
+1 Frog-Squirrels|TLE|251
+1 Hippo-Cows|TLE|252
+1 Match the Odds|TLE|253
+1 Seismic Tutelage|TLE|254
+1 Hog-Monkey Rampage|TLE|255
+1 Mechanical Glider|TLE|256
+1 Feed the Swarm|TLE|257
+1 Run Amok|TLE|258
+1 Explore|TLE|259
+1 Thriving Bluff|TLE|260
+1 Thriving Grove|TLE|261
+1 Thriving Heath|TLE|262
+1 Thriving Isle|TLE|263
+1 Thriving Moor|TLE|264
+1 Aang, Air Nomad|TLE|265
+1 Aang's Defense|TLE|266
+1 Aardvark Sloth|TLE|267
+1 Appa, Aang's Companion|TLE|268
+1 Katara, Heroic Healer|TLE|269
+1 Momo, Rambunctious Rascal|TLE|270
+1 Path to Redemption|TLE|271
+1 Razor Rings|TLE|272
+1 Sledding Otter-Penguin|TLE|273
+1 Sokka, Wolf Cove's Protector|TLE|274
+1 Tundra Wall|TLE|275
+1 Wolf Cove Villager|TLE|276
+1 Capital Guard|TLE|277
+1 Dragon Moose|TLE|278
+1 Explosive Shot|TLE|279
+1 Fire Nation Soldier|TLE|280
+1 Fire Nation's Conquest|TLE|281
+1 Iroh, Firebending Instructor|TLE|282
+1 Komodo Rhino|TLE|283
+1 Run Amok|TLE|284
+1 Warship Scout|TLE|285
+1 Zhao, the Seething Flame|TLE|286
+1 Zuko, Avatar Hunter|TLE|287
+1 Zuko's Offense|TLE|288
+1 Mountain|TLE|289
+1 Mountain|TLE|290
+1 Mountain|TLE|291
+1 Mountain|TLE|292
+1 Mountain|TLE|293
+1 Mountain|TLE|294
+1 Mountain|TLE|295
+1 Mountain|TLE|296
+1 Plains|TLE|297
+1 Plains|TLE|298
+1 Plains|TLE|299
+1 Plains|TLE|300
+1 Plains|TLE|301
+1 Plains|TLE|302
+1 Plains|TLE|303
+1 Plains|TLE|304
 
 [commander bundle]
-1 Enlightened Tutor|TLA|305
-1 Flawless Maneuver|TLA|306
-1 Fierce Guardianship|TLA|307
-1 Mystical Tutor|TLA|308
-1 Deadly Rollick|TLA|309
-1 Entomb|TLA|310
-1 Deflecting Swat|TLA|311
-1 Gamble|TLA|312
-1 Obscuring Haze|TLA|313
-1 Worldly Tutor|TLA|314
-1 Arcane Signet|TLA|315
-1 Sol Ring|TLA|316
-1 Swiftfoot Boots|TLA|317
+1 Enlightened Tutor|TLE|305
+1 Flawless Maneuver|TLE|306
+1 Fierce Guardianship|TLE|307
+1 Mystical Tutor|TLE|308
+1 Deadly Rollick|TLE|309
+1 Entomb|TLE|310
+1 Deflecting Swat|TLE|311
+1 Gamble|TLE|312
+1 Obscuring Haze|TLE|313
+1 Worldly Tutor|TLE|314
+1 Arcane Signet|TLE|315
+1 Sol Ring|TLE|316
+1 Swiftfoot Boots|TLE|317
 
 [tokens]
 1 marit_lage @Viacom
