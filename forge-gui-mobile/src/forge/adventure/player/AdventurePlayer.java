@@ -1011,8 +1011,9 @@ public class AdventurePlayer implements Serializable, SaveFileContent {
     }
 
     public void addMaxLife(int count) {
-        maxLife += count;
-        life += count;
+        // Cap base life at 30. Might need some rebalancing.
+        maxLife = Math.min(maxLife + count, 30);
+        life = Math.min(life + count, maxLife);
         onLifeTotalChangeList.emit();
     }
 
