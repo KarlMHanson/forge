@@ -9896,39 +9896,48 @@
 			"cardUnion": [
 				{
 					"count": 1,
-					"cardName": "Ancestral Recall"
+					"cardName": "Ancestral Recall",
+					"editions": ["LEA"]
 				},
 				{
 					"count": 1,
-					"cardName": "Black Lotus"
+					"cardName": "Black Lotus",
+					"editions": ["LEA"]
 				},
 				{
 					"count": 1,
-					"cardName": "Mox Emerald"
+					"cardName": "Mox Emerald",
+					"editions": ["LEA"]
 				},
 				{
 					"count": 1,
-					"cardName": "Mox Jet"
+					"cardName": "Mox Jet",
+					"editions": ["LEA"]
 				},
 				{
 					"count": 1,
-					"cardName": "Mox Pearl"
+					"cardName": "Mox Pearl",
+					"editions": ["LEA"]
 				},
 				{
 					"count": 1,
-					"cardName": "Mox Ruby"
+					"cardName": "Mox Ruby",
+					"editions": ["LEA"]
 				},
 				{
 					"count": 1,
-					"cardName": "Mox Sapphire"
+					"cardName": "Mox Sapphire",
+					"editions": ["LEA"]
 				},
 				{
 					"count": 1,
-					"cardName": "Timetwister"
+					"cardName": "Timetwister",
+					"editions": ["LEA"]
 				},
 				{
 					"count": 1,
-					"cardName": "Time Walk"
+					"cardName": "Time Walk",
+					"editions": ["LEA"]
 				}
 			]
 		}
