@@ -233,7 +233,7 @@ public class RewardActor extends Actor implements Disposable, ImageFetcher.Callb
         this.flipOnClick = flippable;
         this.reward = reward;
         this.isRewardShop = RewardScene.Type.Shop.equals(type);
-        this.isLoot = RewardScene.Type.Loot.equals(type) || RewardScene.Type.QuestReward.equals(type);
+        this.isLoot = (RewardScene.Type.Loot.equals(type) || RewardScene.Type.QuestReward.equals(type));
         this.showOverlay = showOverlay;
 
         if (backTexture == null) {
@@ -932,7 +932,7 @@ public class RewardActor extends Actor implements Disposable, ImageFetcher.Callb
             autoSell.setVisible(false);
         }
 
-        if (reward.type.equals(Reward.Type.Card) && ownedLabel != null) {
+        if (isLoot && reward.type.equals(Reward.Type.Card) && ownedLabel != null) {
             if (isNew) {
                 if (autoSell != null) {
                     ownedLabel.setPosition(
