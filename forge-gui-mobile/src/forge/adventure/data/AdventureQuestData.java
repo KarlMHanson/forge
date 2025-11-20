@@ -20,7 +20,7 @@ import java.util.*;
 import static forge.adventure.util.AdventureQuestController.QuestStatus.*;
 
 public class AdventureQuestData implements Serializable {
-
+    private static final long serialVersionUID = -4841810273333238694L;
     private int id;
 
     public int getID(){
@@ -35,8 +35,8 @@ public class AdventureQuestData implements Serializable {
     public String synopsis =""; //Intended for Dev Mode only at most
     public transient boolean completed = false;
     public transient boolean failed = false;
-    private transient boolean prologueDisplayed = false;
-    private transient boolean epilogueDisplayed = false;
+    private boolean prologueDisplayed = false;
+    private boolean epilogueDisplayed = false;
 
     public DialogData offerDialog;
     public DialogData prologue;
@@ -81,7 +81,9 @@ public class AdventureQuestData implements Serializable {
         synopsis = data.synopsis;
         offerDialog = new DialogData(data.offerDialog);
         prologue = new DialogData(data.prologue);
+        prologueDisplayed = data.prologueDisplayed;
         epilogue = new DialogData(data.epilogue);
+        epilogueDisplayed = data.epilogueDisplayed;
         failureDialog = new DialogData(data.failureDialog);
         declinedDialog = new DialogData(data.declinedDialog);
         reward = new RewardData(data.reward);
