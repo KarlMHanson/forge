@@ -91,6 +91,8 @@ public enum CounterEnumType implements CounterType {
 
     COMPONENT("COMPN", 224, 160, 48),
 
+    CONQUEROR("CONQR", 225, 210, 25),
+
     CONTESTED("CONTES", 255, 76, 2),
 
     CORPSE("CRPSE", 230, 186, 209),
@@ -481,24 +483,6 @@ public enum CounterEnumType implements CounterType {
 
     TICKET("TICKET"),
 
-    // Keyword Counters
-/*
-    FLYING("Flying"),
-    FIRSTSTRIKE("First Strike"),
-    DOUBLESTRIKE("Double Strike"),
-    DEATHTOUCH("Deathtouch"),
-    DECAYED("Decayed"),
-    HASTE("Haste"),
-    HEXPROOF("Hexproof"),
-    INDESTRUCTIBLE("Indestructible"),
-    LIFELINK("Lifelink"),
-    MENACE("Menace"),
-    REACH("Reach"),
-    TRAMPLE("Trample"),
-    VIGILANCE("Vigilance"),
-    SHADOW("Shadow"),
-    EXALTED("Exalted")
-//*/
     ;
 
     private String name, counterOnCardDisplayName;
