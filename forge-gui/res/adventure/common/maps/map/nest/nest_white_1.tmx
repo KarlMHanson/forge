@@ -177,19 +177,19 @@
    <properties>
     <property name="reward">[
   {
-    &quot;editions&quot;: [ &quot;NEM&quot; ],
+    &quot;editions&quot;: [ &quot;NMS&quot; ],
     &quot;type&quot;: &quot;card&quot;,
     &quot;count&quot;: 10,
     &quot;rarity&quot;: [ &quot;Common&quot; ]
   },
   {
-    &quot;editions&quot;: [ &quot;NEM&quot; ],
+    &quot;editions&quot;: [ &quot;NMS&quot; ],
     &quot;type&quot;: &quot;card&quot;,
     &quot;count&quot;: 3,
     &quot;rarity&quot;: [ &quot;Uncommon&quot; ]
   },
   {
-    &quot;editions&quot;: [ &quot;NEM&quot; ],
+    &quot;editions&quot;: [ &quot;NMS&quot; ],
     &quot;type&quot;: &quot;card&quot;,
     &quot;count&quot;: 3,
     &quot;rarity&quot;: [ &quot;Rare&quot;, &quot;Mythic Rare&quot; ]
