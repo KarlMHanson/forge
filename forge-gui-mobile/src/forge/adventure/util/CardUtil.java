@@ -78,16 +78,7 @@ public class CardUtil {
             if (!this.rarities.isEmpty() && !this.rarities.contains(card.getRarity()))
                 return !this.shouldBeEqual;
             if (!this.editions.isEmpty() && !this.editions.contains(card.getEdition())) {
-                boolean found = false;
-                List<PaperCard> allPrintings = FModel.getMagicDb().getCommonCards().getAllCards(card.getCardName());
-                for (PaperCard c : allPrintings) {
-                    if (this.editions.contains(c.getEdition())) {
-                        found = true;
-                        break;
-                    }
-                }
-                if (!found)
-                    return !this.shouldBeEqual;
+                return !this.shouldBeEqual;
             }
             if (!this.minDate.isEmpty()) {
                 boolean found = false;
@@ -316,7 +307,7 @@ public class CardUtil {
             for (int i = 0; i < count; i++) {
                 PaperCard candidate = pool.get(r.nextInt(pool.size()));
                 if (candidate != null) {
-                    if (allCardVariants) {
+                    if (allCardVariants && (data.editions == null || data.editions.length == 0)) {
                         // Get a random set variant
                         PaperCard finalCandidate = CardUtil.getCardByName(candidate.getCardName());
                         result.add(finalCandidate);
