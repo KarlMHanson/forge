@@ -130,7 +130,7 @@
     &quot;type&quot;: &quot;card&quot;,
     &quot;count&quot;: 2,
     &quot;rarity&quot;: [ &quot;Common&quot; ],
-    &quot;colors&quot;: [&quot;Black&quot;, &quot;Blue&quot; ],
+    &quot;colors&quot;: [ &quot;Black&quot;, &quot;Blue&quot; ],
     &quot;addMaxCount&quot;: 2
   },
   {
@@ -138,7 +138,7 @@
     &quot;type&quot;: &quot;card&quot;,
     &quot;count&quot;: 2,
     &quot;rarity&quot;: [ &quot;Uncommon&quot; ],
-    &quot;colors&quot;: [&quot;Black&quot;, &quot;Blue&quot; ],
+    &quot;colors&quot;: [ &quot;Black&quot;, &quot;Blue&quot; ],
     &quot;addMaxCount&quot;: 2
   }
 ]
@@ -231,7 +231,7 @@
   &quot;probability&quot;: 0.5,
   &quot;editions&quot;: [ &quot;SOI&quot;, &quot;DKA&quot;, &quot;AVR&quot; ],
   &quot;rarity&quot;: [ &quot;uncommon&quot; ],
-  &quot;colors&quot;: [&quot;Black&quot;, &quot;Blue&quot; ],
+  &quot;colors&quot;: [ &quot;Black&quot;, &quot;Blue&quot; ],
   &quot;addMaxCount&quot;: 2
 },{
    &quot;type&quot;: &quot;gold&quot;,
@@ -243,7 +243,7 @@
   &quot;count&quot;: 3,
   &quot;editions&quot;: [ &quot;SOI&quot;, &quot;DKA&quot;, &quot;AVR&quot; ],
   &quot;rarity&quot;: [ &quot;common&quot; ],
-  &quot;colors&quot;: [&quot;Black&quot;, &quot;Blue&quot; ],
+  &quot;colors&quot;: [ &quot;Black&quot;, &quot;Blue&quot; ],
   &quot;addMaxCount&quot;: 3
 }]</property>
    </properties>

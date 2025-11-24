@@ -93,12 +93,12 @@
   &quot;type&quot;: &quot;randomCard&quot;,
   &quot;count&quot;: 2,
   &quot;rarity&quot;: [ &quot;rare&quot;, &quot;mythic rare&quot; ],
-  &quot;colors&quot;: [&quot;Black&quot;,&quot;Red&quot;]
+  &quot;colors&quot;: [ &quot;Black&quot;, &quot;Red&quot; ] ]
 },{
   &quot;type&quot;: &quot;randomCard&quot;,
   &quot;count&quot;: 4,
   &quot;rarity&quot;: [ &quot;uncommon&quot; ],
-  &quot;colors&quot;: [&quot;Black&quot;,&quot;Red&quot;]
+  &quot;colors&quot;: [ &quot;Black&quot;, &quot;Red&quot; ] ]
 }]</property>
     <property name="spawn.Hard" type="bool" value="false"/>
    </properties>
@@ -129,12 +129,12 @@
   &quot;type&quot;: &quot;randomCard&quot;,
   &quot;count&quot;: 2,
   &quot;rarity&quot;: [ &quot;rare&quot;, &quot;mythic rare&quot; ],
-  &quot;colors&quot;: [&quot;Black&quot;,&quot;Red&quot;]
+  &quot;colors&quot;: [ &quot;Black&quot;, &quot;Red&quot; ] ]
 },{
   &quot;type&quot;: &quot;randomCard&quot;,
   &quot;count&quot;: 4,
   &quot;rarity&quot;: [ &quot;uncommon&quot; ],
-  &quot;colors&quot;: [&quot;Black&quot;,&quot;Red&quot;]
+  &quot;colors&quot;: [ &quot;Black&quot;, &quot;Red&quot; ] ]
 }]</property>
     <property name="spawn.Hard" type="bool" value="false"/>
    </properties>
@@ -145,12 +145,12 @@
   &quot;type&quot;: &quot;randomCard&quot;,
   &quot;count&quot;: 2,
   &quot;rarity&quot;: [ &quot;rare&quot;, &quot;mythic rare&quot; ],
-  &quot;colors&quot;: [&quot;Black&quot;,&quot;Red&quot;]
+  &quot;colors&quot;: [ &quot;Black&quot;, &quot;Red&quot; ] ]
 },{
   &quot;type&quot;: &quot;randomCard&quot;,
   &quot;count&quot;: 4,
   &quot;rarity&quot;: [ &quot;uncommon&quot; ],
-  &quot;colors&quot;: [&quot;Black&quot;,&quot;Red&quot;]
+  &quot;colors&quot;: [ &quot;Black&quot;, &quot;Red&quot; ] ]
 }]</property>
     <property name="spawn.Hard" type="bool" value="false"/>
    </properties>
@@ -161,12 +161,12 @@
   &quot;type&quot;: &quot;randomCard&quot;,
   &quot;count&quot;: 2,
   &quot;rarity&quot;: [ &quot;rare&quot;, &quot;mythic rare&quot; ],
-  &quot;colors&quot;: [&quot;Black&quot;,&quot;Red&quot;]
+  &quot;colors&quot;: [ &quot;Black&quot;, &quot;Red&quot; ] ]
 },{
   &quot;type&quot;: &quot;randomCard&quot;,
   &quot;count&quot;: 4,
   &quot;rarity&quot;: [ &quot;uncommon&quot; ],
-  &quot;colors&quot;: [&quot;Black&quot;,&quot;Red&quot;]
+  &quot;colors&quot;: [ &quot;Black&quot;, &quot;Red&quot; ] ]
 }]</property>
     <property name="spawn.Hard" type="bool" value="false"/>
    </properties>
