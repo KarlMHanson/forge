@@ -108,21 +108,18 @@
     &quot;type&quot;: &quot;card&quot;,
     &quot;count&quot;: 10,
     &quot;rarity&quot;: [ &quot;Common&quot; ]
-    &quot;colors&quot;: [ &quot;Blue&quot; ]
   },
   {
     &quot;editions&quot;: [ &quot;M14&quot; ],
     &quot;type&quot;: &quot;card&quot;,
     &quot;count&quot;: 3,
     &quot;rarity&quot;: [ &quot;Uncommon&quot; ]
-    &quot;colors&quot;: [ &quot;Blue&quot; ]
   },
   {
     &quot;editions&quot;: [ &quot;M14&quot; ],
     &quot;type&quot;: &quot;card&quot;,
     &quot;count&quot;: 1,
     &quot;rarity&quot;: [ &quot;Rare&quot;, &quot;Mythic Rare&quot; ]
-    &quot;colors&quot;: [ &quot;Blue&quot; ]
   }
 ]
 </property>
@@ -136,21 +133,18 @@
     &quot;type&quot;: &quot;card&quot;,
     &quot;count&quot;: 10,
     &quot;rarity&quot;: [ &quot;Common&quot; ]
-    &quot;colors&quot;: [ &quot;Blue&quot; ]
   },
   {
     &quot;editions&quot;: [ &quot;M13&quot; ],
     &quot;type&quot;: &quot;card&quot;,
     &quot;count&quot;: 3,
     &quot;rarity&quot;: [ &quot;Uncommon&quot; ]
-    &quot;colors&quot;: [ &quot;Blue&quot; ]
   },
   {
     &quot;editions&quot;: [ &quot;M13&quot; ],
     &quot;type&quot;: &quot;card&quot;,
     &quot;count&quot;: 1,
     &quot;rarity&quot;: [ &quot;Rare&quot;, &quot;Mythic Rare&quot; ]
-    &quot;colors&quot;: [ &quot;Blue&quot; ]
   }
 ]
 </property>
