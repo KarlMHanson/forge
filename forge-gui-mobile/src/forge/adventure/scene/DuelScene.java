@@ -299,7 +299,7 @@ public class DuelScene extends ForgeScene {
             } else if (this.eventData != null) {
                 deck = eventData.nextOpponent.getDeck();
             } else {
-                deck = currentEnemy.copyPlayerDeck ? this.playerDeck : currentEnemy.generateDeck(Current.player().isFantasyMode(), Current.player().isUsingCustomDeck() || Current.player().isHardorInsaneDifficulty());
+                deck = currentEnemy.copyPlayerDeck ? this.playerDeck : currentEnemy.generateDeck(Current.player().isFantasyMode(), Current.player().isUsingCustomDeck());
             }
             if (deck == null) {
                 isDeckMissing = true;
