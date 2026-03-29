@@ -5599,48 +5599,6 @@
 	}]
 },
 {
-  "name":"AttractionShop",
-  "description":"Card-ival of Curiosities",
-  "spriteAtlas":"maps/tileset/buildings.atlas",
-  "sprite":"FunnyShop",
-  "rewards": [
-    {
-      "count":4,
-      "sourceDeck":"decks/shop/funny/funny_cards.dck",
-	  "subTypes": ["Attraction"]
-    },
-    {
-      "count":4,
-      "sourceDeck":"decks/shop/funny/funny_cards.dck",
-      "cardText": "Attraction"
-    },
-    {
-      "count":1,
-      "probability": 0.5,
-      "sourceDeck":"decks/shop/funny/funny_cards_promo.dck",
-      "cardText": "Attraction"
-    }
-	]
-},
-{
-  "name":"ContraptionShop",
-  "description":"The Clank & Crank Co.",
-  "spriteAtlas":"maps/tileset/buildings.atlas",
-  "sprite":"FunnyShop",
-  "rewards": [
-    {
-      "count":4,
-      "sourceDeck":"decks/shop/funny/funny_cards.dck",
-	  "subTypes": ["Contraption"]
-    },
-    {
-      "count":4,
-      "sourceDeck":"decks/shop/funny/funny_cards.dck",
-      "cardText": "Contraption"
-    }
-	]
-},
-{
     "name": "BoosterPackShop",
     "description":"Pack To Basics",
     "spriteAtlas":"maps/tileset/buildings.atlas",
