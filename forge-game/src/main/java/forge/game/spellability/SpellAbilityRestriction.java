@@ -233,7 +233,7 @@ public class SpellAbilityRestriction extends SpellAbilityVariables {
                 return false;
             }
             if (sa.isSpell()) {
-                final CardPlayOption o = c.mayPlay(sa.getMayPlay());
+                final CardPlayOption o = c.isLKI() ? sa.getMayPlayOption() : c.mayPlay(sa.getMayPlay());
                 if (o == null || sa.isCastFromPlayEffect()) {
                     return this.getZone() == null || (cardZone != null && cardZone.is(this.getZone()));
                 } else if (o.getPlayer() == activator) {
